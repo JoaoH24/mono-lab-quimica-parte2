@@ -1,0 +1,109 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Castagnino%
+}{%
+Castagnino%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+castagnino-mat-nanotecnologia}
+\APACinsertmetastar {%
+castagnino-mat-nanotecnologia}%
+\begin{APACrefauthors}%
+Castagnino, J\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {T{\'e}cnicas, materiales y aplicaciones en
+  nanotecnolog{\'\i}a} {T{\'e}cnicas, materiales y aplicaciones en
+  nanotecnolog{\'\i}a}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Acta bioqu{\'\i}mica cl{\'\i}nica
+  latinoamericana}{41}{2}{189--191}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+L{\'o}pez~Garc{\'\i}a%
+, Carnicero~L{\'o}pez%
+\BCBL {}\ \BBA {} Ru{\'\i}z~Pablos%
+}{%
+L{\'o}pez~Garc{\'\i}a%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+materiales}
+\APACinsertmetastar {%
+materiales}%
+\begin{APACrefauthors}%
+L{\'o}pez~Garc{\'\i}a, {\'O}.%
+, Carnicero~L{\'o}pez, A.%
+\BCBL {}\ \BBA {} Ru{\'\i}z~Pablos, R\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Materiales inteligentes I/II: introducci{\'o}n a los
+  materiales del siglo XXI} {Materiales inteligentes i/ii: introducci{\'o}n a
+  los materiales del siglo xxi}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nakamatsu%
+\ \BBA {} Delgado-Aparicio%
+}{%
+Nakamatsu%
+\ \BBA {} Delgado-Aparicio%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+plasma1}
+\APACinsertmetastar {%
+plasma1}%
+\begin{APACrefauthors}%
+Nakamatsu, J.%
+\BCBT {}\ \BBA {} Delgado-Aparicio, L\BPBI F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Modificaci{\'o}n en la superficie de pol{\'\i}meros con
+  plasma.} {Modificaci{\'o}n en la superficie de pol{\'\i}meros con
+  plasma.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Revista de pl{\'a}sticos modernos: Ciencia y
+  tecnolog{\'\i}a de pol{\'\i}meros}{74}{495}{262--268}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Nanociencias%
+\ \BBA {} Gener%
+}{%
+Nanociencias%
+\ \BBA {} Gener%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+nanotecnologia}
+\APACinsertmetastar {%
+nanotecnologia}%
+\begin{APACrefauthors}%
+Nanociencias, N\BPBI Y.%
+\BCBT {}\ \BBA {} Gener, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2009}.
+\newblock
+\APACrefbtitle {La nanotecnolog{\'\i}a} {La nanotecnolog{\'\i}a}.
+\newblock
+\APACaddressPublisher{}{M{\'e}xico: Fondo de cultura ec{\'o}nomica}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,0 +1,72 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: monografía.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: apacite.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: portada.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: secciones/introducción.aux
+Reallocating 'name_of_file' (item size: 1) to 38 items.
+A level-1 auxiliary file: secciones/materiales_inteligentes.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: secciones/nanotecnologia.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: secciones/plasma.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: secciones/conclusion.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: referencias.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--No journal in materiales
+You've used 4 entries,
+            6951 wiz_defined-function locations,
+            1300 strings with 11615 characters,
+and the built_in function-call counts, 6883 in all, are:
+= -- 868
+> -- 57
+< -- 292
++ -- 317
+- -- 9
+* -- 419
+:= -- 1243
+add.period$ -- 16
+call.type$ -- 4
+change.case$ -- 68
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 177
+empty$ -- 283
+format.name$ -- 94
+if$ -- 1339
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 0
+newline$ -- 101
+num.names$ -- 32
+pop$ -- 117
+preamble$ -- 1
+purify$ -- 16
+quote$ -- 0
+skip$ -- 468
+stack$ -- 0
+substring$ -- 353
+swap$ -- 104
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 320
+warning$ -- 1
+while$ -- 31
+width$ -- 0
+write$ -- 123
+(There was 1 warning)
